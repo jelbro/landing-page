@@ -1,5 +1,10 @@
 .header {
     display: flex;
+    color: #F9FAF8;
+}
+
+.logo {
+    font-size: 24;
 }
 
 a {
