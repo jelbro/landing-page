@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    padding: 0;
+}
