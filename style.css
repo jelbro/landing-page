@@ -1,6 +1,7 @@
 .header {
     display: flex;
     color: #F9FAF8;
+    background-color: #1F2937;
 }
 
 .logo {
@@ -9,6 +10,7 @@
 
 a {
     text-decoration: none;
+    color: #F9FAF8;
 }
 
 li {
