@@ -15,7 +15,6 @@ body{
 }
 
 .header {
-    
     color: #F9FAF8;
     background-color: #1F2937;
     display: flex;
@@ -38,8 +37,7 @@ body{
 }
 
 .hero {
-    padding: 50px 0px 50px 0px;
-
+    padding: 50px 0px 70px 0px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -78,7 +76,7 @@ button {
 
 .hero-image {
     width: 400px;
-    padding: 40px;
+    padding: 0 20px 0 0;
 }
   
 
