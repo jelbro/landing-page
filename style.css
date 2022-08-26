@@ -17,7 +17,7 @@ body{
 .header-hero {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     background-color: #1F2937;
 }
@@ -29,7 +29,7 @@ body{
     justify-content: space-between;
     align-items: center;
     padding: 5px;
-    width: 870px;
+    width: 850px;
 }
 
 .logo {
@@ -74,7 +74,6 @@ body{
 
 .hero-image {
     width: 400px;
-    padding: 0 20px 0 0;
 }
 
 .info {
