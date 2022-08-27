@@ -29,7 +29,7 @@ body{
     justify-content: space-between;
     align-items: center;
     padding: 5px;
-    width: 850px;
+    width: 1000px;
 }
 
 .logo {
@@ -45,11 +45,12 @@ body{
 }
 
 .hero {
-    padding: 50px 0px 70px 0px;
+    padding: 75px 0px 110px 0px;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: flex-start;
     gap: 50px;
+    width: 1000px;
 }
 
 .hero-left {
@@ -57,7 +58,7 @@ body{
     justify-content: flex-start;
     align-items: flex-start;
     flex-wrap: wrap;
-    max-width: 400px;
+    max-width: 500px;
     gap: 10px
 }
 
@@ -65,6 +66,7 @@ body{
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 1000;
+    width: 375px;
 }
 
 .hero-desc {
