@@ -89,8 +89,8 @@ body{
 
 .info-panels {
     display: flex;
-    justify-content: space-around;
     align-items: center;
+    justify-content: space-around;
     width: 10px;
     gap: 40px;
 }
@@ -178,6 +178,17 @@ body{
 
 .action-desc {
     font-weight: 300;
+}
+
+.footer {
+    background-color: #1F2937;
+    font-size: 18px;
+    font-weight: 400;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 35px;
 }
 
 button {
