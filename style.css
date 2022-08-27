@@ -5,9 +5,6 @@ html, body {
 
 body{
     font-family: 'Roboto', sans-serif;
-}
-
-.body {
     display: flex;
     flex-direction: column;
     justify-content: stretch;
