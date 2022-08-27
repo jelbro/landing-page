@@ -1,6 +1,7 @@
 html, body {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
   }  
 
 body{
@@ -43,7 +44,7 @@ body{
 }
 
 .hero {
-    padding: 75px 0px 110px 0px;
+    padding: 75px 0px 116px 0px;
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
@@ -84,7 +85,7 @@ body{
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
-    padding: 45px 0 120px 0;
+    padding: 45px 0 105px 0;
 }
 
 .info-panels {
@@ -203,7 +204,9 @@ button {
 
 .sign-up-2 {
     border: 3px;
-    padding: 0px 40px 0px 40px;
+    padding: 3px;
+    height: 38px;
+    width: 145px;
     border-style: solid;
     border-color: #F9FAF8;
 }
