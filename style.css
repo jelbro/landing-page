@@ -63,6 +63,7 @@ body{
     align-items: flex-start;
     flex-wrap: wrap;
     flex-basis: 500px;
+    padding: 45px;
     gap: 10px
 }
 
@@ -200,7 +201,6 @@ body{
     color: #E5E7EB;
     display: flex;
     justify-content: center;
-    align-items: center;
     padding: 35px;
 }
 
