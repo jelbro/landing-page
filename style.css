@@ -63,7 +63,7 @@ body{
     align-items: flex-start;
     flex-wrap: wrap;
     flex-basis: 500px;
-    padding: 45px;
+    /* padding: 45px; */
     gap: 10px
 }
 
@@ -82,7 +82,6 @@ body{
 .hero-image {
     flex-basis: 390px;
     max-width: 390px;
-    flex-grow: 1;
 }
 
 .info {
