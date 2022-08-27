@@ -165,7 +165,7 @@ body{
     background-color: #F9FAF8;
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     flex-wrap: wrap;
     padding: 100px;
@@ -174,11 +174,14 @@ body{
 .action-container {
     background-color: #3882F6;
     display: flex;
-    justify-content: space-around;
-    padding: 40px 0px 40px 0px;
-    width: 1000px;
+    justify-content: space-between;
+    padding: 40px 50px 40px 50px;
+    flex-basis: 50px;
     border: 2px solid #3882F6;
     border-radius: 10px;
+    flex-wrap: wrap;
+    column-gap:  250px;
+    row-gap: 30px;
 }
 
 .action-title {
